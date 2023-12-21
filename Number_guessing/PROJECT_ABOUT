@@ -1,0 +1,24 @@
+Random Number Guessing Game
+
+This is a simple Python program that allows the user to guess a random number between 1 and 10. The user continues to guess until they correctly identify the randomly chosen number.
+
+Game Logic:
+1. The program generates a random number between 1 and 10 using the `random` module.
+2. The user is prompted to input their guess.
+3. The program provides feedback on whether the guessed number is too small or too large.
+4. The user continues to guess until they correctly identify the random number.
+
+How to Play:
+1. Run the Python script (`random_number_guessing_game.py`).
+2. Enter your guess when prompted.
+3. Receive feedback and continue guessing until you correctly identify the random number.
+
+Code Explanation:
+- The program uses the `random.randint` function to generate a random number.
+- A `while` loop is used to continue prompting the user until the correct number is guessed.
+- The user is informed if their guess is too small or too large.
+- The number of attempts is recorded and displayed at the end.
+
+Sample Usage:
+```python
+python random_number_guessing_game.py
