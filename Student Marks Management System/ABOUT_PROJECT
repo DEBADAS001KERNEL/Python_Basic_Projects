@@ -1,0 +1,21 @@
+Student Marks Management System
+
+This is a simple Python program that allows a student to input their marks for various subjects and receive feedback on their performance. The program identifies the subject with the highest and lowest marks, providing guidance on areas of strength and weakness.
+
+How to Use:
+1. Run the Python script (`student_marks_management.py`).
+2. Enter your name when prompted.
+3. Input the number of subjects and the corresponding marks for each subject.
+4. Receive feedback on your performance, including the subject with the highest and lowest marks.
+
+Code Structure:
+- The code is organized into functions for better readability and maintainability.
+  - `get_student_info`: Takes input for the student's name and marks for each subject.
+  - `analyze_results`: Analyzes the input data to identify the subject with the highest and lowest marks.
+  - `display_results`: Displays the results and provides feedback to the student.
+
+Sample Usage:
+```python
+python student_marks_management.py
+
+Dear Friend its a simple project for python beginners but You can Make it more perfect and powerfull by adding new features.
