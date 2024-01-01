@@ -1,0 +1,41 @@
+Python Cup Guessing Game Explanation
+
+This Python script creates an interactive cup guessing game. The game involves two steps: correctly identifying the cup containing a hidden number and then guessing the hidden number. Here's a breakdown of the code:
+
+Random Number Generation:
+
+The script utilizes the random module to generate a random integer (a) between 1 and 10.
+Cups and Cup Selection:
+
+Three cups are represented by the variables cup1, cup2, and cup3, initially set to 0.
+Cups are stored in a list (c = ['cup1', 'cup2', 'cup3']).
+A cup (C) is randomly chosen using random.choice().
+Game Rules Prompt:
+
+The player is presented with the game rules via print() statements.
+Instructions guide the player to first choose the correct cup and then guess the hidden number beneath it.
+User Input:
+
+The player inputs the name of the chosen cup using input().
+If the selected cup matches the randomly chosen cup (C), the player advances to the next level.
+Level-1 Success:
+
+Upon a correct cup choice, a success message is displayed.
+The player is prompted to input a number.
+Number Guessing:
+
+The player guesses a number, and if it matches the initially generated random number (a), the player wins.
+Game Outcome:
+
+Success or failure messages are printed based on the player's choices.
+Conclusion:
+
+The game concludes with a summary of the outcome.
+How to Play:
+
+Run the script.
+Follow on-screen instructions to select the correct cup and guess the hidden number.
+Note:
+
+Incorrect choices result in game over.
+This code serves as a foundation for a guessing game, with potential for further customization or complexity. Enjoy the game, and best of luck
