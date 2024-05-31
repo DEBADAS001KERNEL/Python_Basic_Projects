@@ -1,0 +1,35 @@
+Title: Leap Year Checker
+
+Introduction:
+
+The "Leap Year Checker" project is a simple yet essential utility designed to determine whether a given year is a leap year or not. Leap years play a crucial role in various applications, such as calendar systems, financial calculations, and astronomical predictions. This project aims to provide a reliable and efficient tool for users to quickly ascertain the leap year status of any year.
+
+Project Overview:
+
+The project involves developing a Python script that takes input from the user in the form of a year and then performs a series of calculations to determine whether the year is a leap year or not. The script will implement the standard rules for leap year calculation and provide clear and concise output indicating the leap year status of the input year.
+
+Key features of the Leap Year Checker project include:
+
+User Input: The script will prompt the user to enter a year for leap year verification.
+
+Leap Year Calculation: The script will implement the standard rules for leap year calculation:
+
+If the year is divisible by 4 and not divisible by 100, it's a leap year.
+If the year is divisible by 400, it's a leap year.
+Otherwise, it's not a leap year.
+Output: The script will display a message indicating whether the input year is a leap year or not.
+
+Project Goals:
+
+Develop a Python script to determine the leap year status of a given year.
+Implement the standard rules for leap year calculation.
+Ensure robust error handling to handle invalid input and edge cases.
+Provide clear and informative output messages for users.
+Expected Outcomes:
+
+A reliable and efficient leap year checker tool that accurately determines the leap year status of any given year.
+Enhanced user understanding of leap year calculations and concepts.
+Increased convenience for users in verifying leap year status for various applications and scenarios.
+Conclusion:
+
+The "Leap Year Checker" project serves as a valuable tool for users seeking to verify the leap year status of any given year quickly. By implementing standard leap year calculation rules in a user-friendly Python script, the project aims to promote understanding and facilitate the practical application of leap year concepts in various domains.
