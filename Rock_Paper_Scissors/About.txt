@@ -1,0 +1,21 @@
+Rock Paper Scissors Game
+
+This is a simple Rock-Paper-Scissors game created in Python. 
+The game lets you play against the computer.
+
+How to Play:
+1. Run the script.
+2. When prompted, enter your choice: 'rock', 'paper', or 'scissors'.
+3. The computer will randomly select its choice.
+4. The winner is determined based on the following rules:
+   - Rock beats Scissors
+   - Scissors beats Paper
+   - Paper beats Rock
+5. The game will display the winner of the round and then end.
+
+The program does not handle draws, so keep that in mind while playing.
+
+Note: Ensure you enter one of the valid choices ('rock', 'paper', or 'scissors') 
+to avoid any errors or unexpected behavior.
+
+Enjoy playing!
