@@ -1,0 +1,13 @@
+About MCQ Maker App:
+
+Welcome to the MCQ Maker App, your go-to solution for creating and testing multiple choice questions! This application is designed to simplify the process of generating quizzes and conducting tests, making learning both efficient and fun. Whether you're a teacher creating a quiz for your students, or a student testing your own knowledge, this app provides an intuitive interface to meet your needs.
+
+Features:
+Easy Question Creation: Input your questions and answers easily.
+Dynamic Testing Environment: Take tests interactively and receive immediate feedback.
+Scoring System: Keep track of your performance with a real-time score update.
+How It Works:
+Create Questions: Enter the number of questions you want to create, then input each question along with its correct answer.
+Start the Test: The app will present each question one by one, allowing you to write your answers.
+Immediate Feedback: After each answer, you'll receive immediate feedback on whether your answer was correct or wrong.
+Final Score: At the end of the test, you'll receive a final score indicating your overall performance.
