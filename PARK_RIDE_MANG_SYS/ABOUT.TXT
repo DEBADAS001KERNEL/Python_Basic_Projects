@@ -1,0 +1,17 @@
+About Amusement Park Management System
+Welcome to the Amusement Park Management System, a user-friendly console application designed to streamline the management of amusement park rides. Our system allows operators to efficiently manage ride admissions and ensure a safe and enjoyable experience for all visitors.
+
+Key Features:
+Simple Interface: Easy-to-use input prompts guide operators through the process of entering visitor details and checking age eligibility for various rides.
+Detailed Records: Captures and displays essential information such as visitor name, mobile number, ride type, age, and bill amount.
+Available Rides:
+Roller Coaster: For thrill-seekers aged 18 and above. Ticket Price: $20
+Water Ride: Splashy fun for visitors aged 16 and above. Ticket Price: $30
+Horror Train: Spooky adventure for those aged 18 and above. Ticket Price: $35
+Electric Car: Electrifying fun for guests aged 16 and above. Ticket Price: $40
+Merry-Go-Round: Classic ride for visitors aged 18 and above. Ticket Price: $30
+Mickey Mouse: Whimsical experience for children aged 9 to 17. Ticket Price: $15
+Adding More Rides:
+Our system is designed with flexibility in mind. Using the same methodology, you can easily add more rides to the application. Simply follow the existing pattern to create new ride methods with appropriate age restrictions and ticket prices. This extensible approach ensures that the system can grow alongside your amusement park, offering new and exciting experiences for visitors of all ages.
+
+We are committed to providing a seamless and efficient tool for amusement park operators, ensuring that every visit is managed with care and precision. Thank you for choosing our Amusement Park Management System!
