@@ -1,0 +1,45 @@
+Contact Book Project
+=====================
+
+Project Description:
+---------------------
+The Contact Book is a simple and intuitive application that allows users to manage their contacts efficiently. Users can add, remove, search, and view contacts through a straightforward command-line interface.
+
+Features:
+---------
+1. Add Contact: Users can add a new contact by providing a name and a phone number.
+2. Remove Contact: Users can remove an existing contact by specifying the contact's name.
+3. Search Contact: Users can search for a contact by name to view the associated phone number.
+4. View Contacts: Users can view all the contacts stored in the contact book.
+
+Technical Details:
+------------------
+- The project is implemented in Python.
+- The `ContactBook` class handles the core functionality of managing contacts.
+- The user interacts with the application through a menu-driven interface in the `main()` function.
+
+Usage:
+------
+1. Run the `main()` function to start the application.
+2. Follow the on-screen prompts to select the desired option.
+3. Enter the necessary information as prompted by the application.
+
+
+Requirements:
+-------------
+- Python 3.x
+
+Installation:
+-------------
+1. Clone the repository or download the source code files.
+2. Navigate to the project directory.
+3. Run the script using Python: `python contact_book.py`
+
+Future Enhancements:
+--------------------
+- Implement input validation to ensure phone numbers are in a valid format.
+- Add the ability to edit existing contacts.
+- Save contacts to a file for persistent storage.
+
+
+
