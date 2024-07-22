@@ -1,0 +1,2 @@
+in this programme i have devoloped a  soft which can short_down a given name 
+which have more than 20 laters
